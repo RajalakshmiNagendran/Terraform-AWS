@@ -3,7 +3,7 @@ Terraform project for AWS Three Tier Architecture Creation
 
 # output:
 <div align="center">
-  <img src="./public/assets/Picture6.png" alt="Logo" width="100%" height="100%">
+  <img src="./Picture6.png" alt="Logo" width="100%" height="100%">
 </div>
 
 My References:
